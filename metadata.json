@@ -1,0 +1,8 @@
+{
+  "name": "Biziha",
+  "description": "A comprehensive mobile business social network for company profiles, associations, negotiations, and AI-driven business matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
